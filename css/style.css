@@ -1,0 +1,29 @@
+img{
+    width: 150px;
+    height: 150px;   
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    border: 2px black solid;
+    display: flex;
+    float: left;
+}
+
+
+
+h1{
+    border: 2px black solid;
+    font-size: 36px;
+}
+
+h2{
+  font-size: 22px;  
+  line-height: 19px;
+  margin-left: 15px;
+}
+
+.playerInfo{
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+}
